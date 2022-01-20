@@ -1,0 +1,7 @@
+E:\Banu\Zensar\Batch1\FirstConsolePrj\FirstConsolePrj\bin\Debug\FirstConsolePrj.exe.config
+E:\Banu\Zensar\Batch1\FirstConsolePrj\FirstConsolePrj\bin\Debug\FirstConsolePrj.exe
+E:\Banu\Zensar\Batch1\FirstConsolePrj\FirstConsolePrj\bin\Debug\FirstConsolePrj.pdb
+E:\Banu\Zensar\Batch1\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.csproj.AssemblyReference.cache
+E:\Banu\Zensar\Batch1\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.csproj.CoreCompileInputs.cache
+E:\Banu\Zensar\Batch1\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.exe
+E:\Banu\Zensar\Batch1\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.pdb
